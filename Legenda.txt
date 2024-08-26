@@ -1,0 +1,5 @@
+G = Grama (Verde)
+E = Edificio (Azul)
+A = Asfalto (Cinza escuro)
+T = Terra (Marrom)
+P = Paralelepípedo (Cinza claro)
